@@ -1,16 +1,10 @@
-# myPixAI
+* myPicxAI
 
-My Pix is a MERN stack web application that allows users to generate images using DALL-E AI AI model.
-The app is built with React and allows users to select from a pre-defined set of prompts,
-or generate new images using the AI model.
+My PicxAI is a web application built on the MERN stack that enables users to create photographs using the DALL-E AI AI model.
+Users of the React-built app can choose from a pre-defined list of prompts or use the AI model to create new photos.
 
-## Features
-- User can select from a pre-defined set of images.
-- User can generate new images using the AI model.
-- User can share the generated image to myPix app and the image will upload to cloudinary server.
-- User can share the generated image on Facebook.
-- User can download the generated image to their device.
-
-## Known Issues
-- The AI model is currently trained on a limited dataset and may not produce high-quality images in all cases.
-- The Facebook sharing feature may not work for all users due to platform and location restrictions.
+User can choose from a pre-defined selection of photos.
+- The AI model can be used by the user to create new photos.
+- The user can upload the created image to the cloudinary server by sharing it using the myPix app.
+- The created image may be shared by the user on Facebook.
+- The created image can be downloaded to the user's device.
