@@ -9,10 +9,10 @@ const Footer = () => {
             </p>
             <a href='https://www.linkedin.com/in/vasu-beri-984740233/' target="_blank"
             className=''>
-                &nbsp;VASU BERI&nbsp;
+                &nbsp;DIYA BERI&nbsp;
             </a>
              <p className="text-white">
-                { ` with human intelligence 2023`}
+                { ` with human intelligence 2024`}
             </p>
 
         </footer>
